@@ -1,4 +1,4 @@
-## Krypt - Web 3.0 Blockchain Application
+# Krypt - Web 3.0 Blockchain Application
 
 <img width="320" alt="buyandsell" src="https://user-images.githubusercontent.com/60100544/157340456-83c8f8dd-1091-42dd-bb64-a63729484c89.png">
 
@@ -7,17 +7,17 @@
 This is a dencentralized smart contract app where users can send and recieve cryptocoin on real time.This unique smart contract app is a version of Web 3.0. Users are authenticated using metamask and many more amazing features which is the future of web.
 Technologies Used - React.js ,solidity, hardhat,Metamask ,Tailwind css.
 
-# Terminal
+## Terminal
 
 npx create-react-app my-project
 cd my-project
 Save
 
-# Install Tailwind CSS
+## Install Tailwind CSS
 
 Install tailwindcss and its peer dependencies via npm, and then run the init command to generate both tailwind.config.js and postcss.config.js.
 
-# Terminal
+## Terminal
 
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
@@ -27,7 +27,7 @@ yarn add tailwindcss --dev
 npx tailwindcss init -p
 Save
 
-# Configure your template paths
+## Configure your template paths
 
 Add the paths to all of your template files in your tailwind.config.js file.
 
