@@ -44,7 +44,7 @@ plugins: [],
 }
 Save
 
-# Add the Tailwind directives to your CSS
+## Add the Tailwind directives to your CSS
 
 Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
 
@@ -55,9 +55,9 @@ index.css
 @tailwind utilities;
 Save
 
-# Start your build process
+## Start your build process
 
-# Run your build process with npm run start.
+### Run your build process with npm run start.
 
 Terminal
 npm run start
