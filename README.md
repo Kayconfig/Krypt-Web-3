@@ -46,7 +46,7 @@ Save
 
 # Add the Tailwind directives to your CSS
 
-## Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
+Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
 
 index.css
 
